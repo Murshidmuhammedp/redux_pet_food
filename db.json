@@ -1,0 +1,136 @@
+{
+  "user": [
+    {
+      "id": "f349",
+      "name": "murshid",
+      "email": "murshid.mmp@gmail.com",
+      "Number": "9995789485",
+      "DOB": "2000-01-01",
+      "password": "12345",
+      "block": false,
+      "cart": []
+    },
+    {
+      "id": "73cb",
+      "name": "gfjhk",
+      "email": "fc@gmail.com",
+      "Number": "888888888",
+      "DOB": "8888-08-08",
+      "password": "88888",
+      "block": false,
+      "cart": []
+    },
+    {
+      "id": "e801",
+      "name": "salman",
+      "email": "salman@gmail.com",
+      "Number": "999999999",
+      "DOB": "1999-09-09",
+      "password": "salman",
+      "block": false,
+      "cart": []
+    },
+    {
+      "id": "75b8",
+      "name": "murshid",
+      "email": "murshid@gmail",
+      "Number": "7456",
+      "DOB": "2000-01-01",
+      "password": "12345",
+      "block": false,
+      "cart": [
+        {
+          "id": "c1d0",
+          "Category": "Birds",
+          "URL": "https://www.petsy.online/cdn/shop/products/Untitleddesign-2020-11-21T123940.614_652x652.png?v=1605942593",
+          "productname": "Vitapol ",
+          "description": "Vitapol Karma Economic Food for Cockatiels (1.2kg).Vitapol Karmeo Bird food is created to provide a balanced and superior source of nutrition. This simple yet healthy grass seed diet mixture is a blend of nourishing ingredients high-quality wholesome seeds. Made to be loved by your feathered friend.",
+          "Price": "523",
+          "qty": "8"
+        }
+      ]
+    }
+  ],
+  "products": [
+    {
+      "id": "2864",
+      "Category": "Dog",
+      "URL": "https://www.petsy.online/cdn/shop/products/FabledTrial_Aplus_Growlittleone.jpg?v=1679483724&width=800",
+      "productname": "Fabled",
+      "description": "Fabled Dry Dog Food - Well Begun Starter for all breed puppies (Upto 3 months) Trial Tin (250g).Fabled is a pet food company that makes premium dog food in Great Britain. Fabled's food is designed to meet a dog's lifestyle needs and includes essential nutrients like carbohydrates, proteins, fats, fruits, and vegetables",
+      "Price": "249"
+    },
+    {
+      "id": "450a",
+      "Category": "Dog",
+      "URL": "https://www.petsy.online/cdn/shop/files/2-FOP-120-Bundle-New.jpg?v=1707803225&width=1000",
+      "productname": "Pedigree",
+      "description": "Pedigree Puppy Wet Dog Food with Chicken Chunks in Gravy 130 gm.INGREDIENTS. Pedigree dog food is made with Meat and Meat by-products, Chicken and Chicken by-products, Vegetables and Vegetable by-products, Vegetable oils, Milk powder, Iodised salt, Essential Vitamins and Minerals, Cereals and Cereal by-products, Permitted Preservatives, Antioxidants and Flavours, No beef or pork",
+      "Price": "648"
+    },
+    {
+      "id": "027e",
+      "Category": "Dog",
+      "URL": "https://www.petsy.online/cdn/shop/products/1_7af4b746-8c3b-4edb-9e22-7b902102b029.jpg?v=1679985001&width=700",
+      "productname": "Brunos Wild Essentials",
+      "description": "Bruno's Wild Essentials Low Grain Dry Dog Food - Puppy Food (Lamb Feast) - Medium & Large Breeds.Suits all breeds for Puppies & Adults. Glucosamine and Chondroitin act as building blocks for cartilage in the joint. MSM is added to help to protect the joint from exercise induced injury. Brown rice is full of Natural Fiber, vitamins D and B Essential to Heart Health.",
+      "Price": "1619"
+    },
+    {
+      "id": "f9a5",
+      "Category": "Cat",
+      "URL": "https://www.petsy.online/cdn/shop/products/10_968bfc90-56e3-41cd-a220-c932b4f0a299.jpg?v=1650281896&width=800",
+      "productname": "Me-O",
+      "description": "Me-O Wet Cat Food - Chicken with Rice and Tuna (80g x 12 Pouches).Me-O is a cat food brand that offers a variety of wet and dry cat food. Me-O cat food is nutritionally complete and designed to be high in palatability and digestibility. It contains vitamins, minerals, and taurine, which is essential for visual acuity. Me-O cat food is also specially developed to help prevent the risk of FLUTD (feline lower urinary tract disease) and bladder stones in cats",
+      "Price": "5999"
+    },
+    {
+      "id": "5268",
+      "Category": "Cat",
+      "URL": "https://www.petsy.online/cdn/shop/products/WhatsAppImage2022-10-28at6.07.15PM.jpg?v=1666960661&width=800",
+      "productname": "Kennel Kitchen",
+      "description": "Kennel Kitchen Wet Cat Food - Chicken and Tuna Shreds in Gravy (70g x 15 Pouches).Kennel Kitchen wet dog food is made with real chunks of chicken and chicken liver in a savoury gravy. It's packed with protein and entirely free from fillers, corn, soy, and wheat. Chicken chunks in gravy is made with premium high protein deboned chicken that provides essential amino acids for muscle development.",
+      "Price": "945"
+    },
+    {
+      "id": "f48b",
+      "Category": "Birds",
+      "URL": "https://www.petsy.online/cdn/shop/products/6_4fab6fee-b8ca-4587-a27e-ded623fdcedf.jpg?v=1658132601&width=800",
+      "productname": "Zupreem",
+      "description": "Zupreem Natural Bird Food for Large Birds (1.4kg).ZuPreem is a brand of bird food pellets. ZuPreem offers a variety of food types.A fresh, wholesome food made with vegetables and essential vitamins, minerals, and amino acids. ZuPreem Natural pellets also contain celery, carrots, parsley, beets, blueberries, cranberries, and ground flaxseeds",
+      "Price": "1643"
+    },
+    {
+      "id": "c1d0",
+      "Category": "Birds",
+      "URL": "https://www.petsy.online/cdn/shop/products/Untitleddesign-2020-11-21T123940.614_652x652.png?v=1605942593",
+      "productname": "Vitapol ",
+      "description": "Vitapol Karma Economic Food for Cockatiels (1.2kg).Vitapol Karmeo Bird food is created to provide a balanced and superior source of nutrition. This simple yet healthy grass seed diet mixture is a blend of nourishing ingredients high-quality wholesome seeds. Made to be loved by your feathered friend.",
+      "Price": "523"
+    },
+    {
+      "id": "f6bf",
+      "Category": "fish",
+      "URL": "https://cdn11.bigcommerce.com/s-iakwzr7rs7/images/stencil/320w/products/2589/3298/1357_TE-77160_FR__54227.1542234471.jpg?c=2",
+      "productname": "TETRA",
+      "description": "Tetracolor Tropical Fish Food Flakes.A superior and comprehensive food, enriched with a new BioActive formula to best meet the nutritional requirements of Discus fish and that of other demanding tropical fish. TetraBits Complete brings a complete nutritional diet to secure a good health for your Discus fish.",
+      "Price": "399"
+    },
+    {
+      "id": "fde4",
+      "Category": "fish",
+      "URL": "https://cdn11.bigcommerce.com/s-iakwzr7rs7/images/stencil/1280x1280/attribute_rule_images/8494_source_1544476426.jpg",
+      "productname": "Hikari Betta Bio-Gold Pellet Fish Food",
+      "description": "The inclusion of premium-select fish meal which provides a superior protein source, which helps enhances coloration, grape seed extract (polyphenol) which has been shown to reduce the impacts of aging and spirulina which naturally offers a high concentration of usable vitamins make this a daily diet perfectly suited",
+      "Price": "199"
+    },
+    {
+      "id": "067d",
+      "Category": "fish",
+      "URL": "https://cdn11.bigcommerce.com/s-iakwzr7rs7/images/stencil/1280x1280/attribute_rule_images/8472_source_1547676111.jpg",
+      "productname": "Hikari Tropical Fish Algae Wafers Fish Food",
+      "description": "A perfect balance of premium-select ingredients developed to promote proper growth and desirable form in most herbivorous species. Contains higher levels of vegetable matter and multiple algaes that plecostomus and other algae eaters prefer.",
+      "Price": "559"
+    }
+  ]
+}
